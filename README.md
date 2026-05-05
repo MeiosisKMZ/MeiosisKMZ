@@ -19,3 +19,6 @@ I make some apps for the FlipperZero that you may want to check out:
 * [PMRScan](https://github.com/MeiosisKMZ/pmrscan) scan PMR446 channels listening for activity with the FlipperZero.
 * [FurNFC](https://github.com/MeiosisKMZ/FurNFC) Simple Flipper Zero app to read hex and decode it as ascii from Mifare NFC card.
 * [FlipLegoTrain](https://github.com/MeiosisKMZ/fliplegotrain) Use your FlipperZero as a controller for your Lego Train.
+
+I also do some other computer/PoC stuff:
+[TelWare](https://github.com/MeiosisKMZ/TelWare) DoS inducing malware for vulnerable printers.
