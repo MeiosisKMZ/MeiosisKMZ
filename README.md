@@ -21,5 +21,5 @@ I make some apps for the FlipperZero that you may want to check out:
 * [FlipLegoTrain](https://github.com/MeiosisKMZ/fliplegotrain) Use your FlipperZero as a controller for your Lego Train.
 
 I also do some other computer/PoC stuff:
-* [TelWare](https://github.com/MeiosisKMZ/TelWare) DoS inducing malware for vulnerable printers.
+* [TelWare](https://github.com/MeiosisKMZ/TelWare) DoS inducing PoC for vulnerable printers.
 * [WifiDeauther](https://github.com/MeiosisKMZ/WifiDeauther) Kick everyone off the network you target.
