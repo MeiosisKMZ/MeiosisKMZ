@@ -7,7 +7,7 @@
 
 Hello, I am Meiosis, I speak fluently English and French.
 
-My name comes from biology: *meiosis*, a process of division and transformation. I like the parallel — in cybersecurity, I break systems down, understand their structure, and move through them with precision.
+My name comes from biology: *meiosis*, a process of division and transformation. I like the parallel — I am everywhere, simultaneously.
 
 KMZ stands for Kaos Mainframe Zone. It’s the name of my server and hackerspace, inspired by the concept of a DMZ — our first real access point to a server environment at school.
 
